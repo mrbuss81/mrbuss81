@@ -7,16 +7,16 @@ My goal: turn every course and curiosity into something real and useful.
 
 ---
 
-### 🧱 Current Projects
-- 📚 **[Library Management System](https://github.com/mrbuss81/library-management-system)** — full database design project (PostgreSQL, normalization, ER modeling)  
-- 💰 **[Costco Price Tracker](https://github.com/CompSciRVDad/CostcoPriceApp)** — Python web-scraper and data automation tool
+### 🧱 Featured Projects
+- 📚 **[Library Management System](https://github.com/mrbuss81/library-management-system)** — database design in PostgreSQL with ER modeling, normalization, and SQL scripting  
+- 💰 **[Costco Price Tracker](https://github.com/CompSciRVDad/CostcoPriceApp)** — Python app for scraping, analyzing, and tracking regional price drops
 
 ---
 
 ### 🧠 Currently Exploring
 - Data Structures & Algorithms (COMP 251)  
 - Backend development with **Python**, **SQL**, and **C++**  
-- Full-stack tools like **React**, **HTML/CSS**, and **GitHub Actions**
+- Web development with **HTML**, **CSS**, and **React**
 
 ---
 
@@ -27,7 +27,14 @@ My goal: turn every course and curiosity into something real and useful.
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrbuss81&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrbuss81&layout=compact&theme=radical)
 
 ---
 
