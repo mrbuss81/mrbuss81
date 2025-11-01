@@ -33,8 +33,9 @@ My goal: turn every course and curiosity into something real and useful.
 ---
 
 ### 📊 GitHub Stats
-![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrbuss81&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrbuss81&layout=compact&theme=radical)
+![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrbuss81&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrbuss81&layout=compact&theme=tokyonight&hide_border=true)
+
 
 ---
 
