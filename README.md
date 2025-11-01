@@ -46,7 +46,7 @@ learning in public as *The CompSci RV Dad*, coding from the open road 🚐☕
 ---
 
 📫 **Let’s Connect**
-- ✉️ [michaelbuss@ufv.ca](mailto:michael.buss@student.ufv.ca)  
+- ✉️ [michael.buss@student.ufv.ca](mailto:michael.buss@student.ufv.ca)  
 - 🧠 [YouTube – CompSciRVDad](https://www.youtube.com/@rvCSdad2025) *(more coming soon)*  
 - 🌐 [GitHub Portfolio](https://github.com/mrbuss81)
 
